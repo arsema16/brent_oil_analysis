@@ -1,0 +1,15 @@
+Date,Event_Name,Category,Expected_Impact
+1990-08-02,Gulf War - Kuwait Invasion,Geopolitical_Conflict,High
+1991-01-17,Operation Desert Storm,Geopolitical_Conflict,High
+1997-07-02,Asian Financial Crisis,Economic_Shock,Medium
+2001-09-11,9/11 Attacks,Geopolitical_Event,Medium
+2003-03-20,Iraq War Invasion,Geopolitical_Conflict,High
+2008-09-15,Global Financial Crisis,Economic_Shock,Very_High
+2008-12-17,OPEC Production Cuts,OPEC_Policy,High
+2011-02-15,Arab Spring - Libya,Geopolitical_Conflict,High
+2014-06-01,Oil Price Crash,Market_Event,High
+2016-11-30,OPEC+ Agreement,OPEC_Policy,High
+2018-05-08,US Iran Sanctions,Political,Medium
+2020-01-30,COVID-19 Pandemic,Public_Health,Very_High
+2020-03-06,OPEC+ Dispute,OPEC_Policy,Very_High
+2022-02-24,Russia-Ukraine War,Geopolitical_Conflict,Very_High
