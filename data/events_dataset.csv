@@ -1,4 +1,4 @@
-Date,Event_Name,Category,Expected_Impact
+﻿Date,Event_Name,Category,Expected_Impact
 1990-08-02,Gulf War - Kuwait Invasion,Geopolitical_Conflict,High
 1991-01-17,Operation Desert Storm,Geopolitical_Conflict,High
 1997-07-02,Asian Financial Crisis,Economic_Shock,Medium
